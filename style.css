@@ -1,0 +1,16 @@
+body, html{
+    background: url(portada.jpg);
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contenedor{
+    text-align: center;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 50px auto;
+    width: 80%;
+    max-width: 800px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s; 
+}
